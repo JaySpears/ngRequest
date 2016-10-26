@@ -11,7 +11,7 @@ bower install ngrequest --save -dev
 
 ##### 2. Inject the module as a dependency.
 ```JavaScript
-angular.module('app',['ngLoader']);
+angular.module('app',['ngRequest']);
 ```
 
 ##### 3. Include the JS file via bower_components.
