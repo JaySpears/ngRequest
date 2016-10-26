@@ -1,0 +1,23 @@
+{
+  "name": "ngRequest",
+  "main": "ngRequest.js",
+  "homepage": "https://github.com/JoshSpears3/ngRequest",
+  "authors": [
+    "JoshSpears3 <josh.spears@sq1.com>"
+  ],
+  "description": "This angular module is developed to display data based on service requests.",
+  "keywords": [
+    "ngRequest",
+    "Angular",
+    "Angular",
+    "Service"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
