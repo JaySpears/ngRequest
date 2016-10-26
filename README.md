@@ -23,7 +23,7 @@ OPTIONAL
 
 ##### Include the CSS file in your HTML file.
 ```HTML
-<link rel="stylesheet" href="/bower_components/ngRequest/stlyes.min.css">
+<link rel="stylesheet" href="/bower_components/ngRequest/styles.min.css">
 ```
 
 Example fiddle be found <a href="https://jsfiddle.net/JoshSpears/38rmqnxn/">here</a>.
