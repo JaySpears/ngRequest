@@ -6,7 +6,7 @@ This angular module is developed to display data based on service requests.
 
 ##### 1. Install the module via bower.
 ```
-bower install ngrequest --save -dev
+bower install ngrequest --save-dev
 ```
 
 ##### 2. Inject the module as a dependency.
