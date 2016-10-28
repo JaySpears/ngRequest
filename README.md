@@ -26,4 +26,11 @@ OPTIONAL
 <link rel="stylesheet" href="/bower_components/ngRequest/styles.min.css">
 ```
 
+
+##### Directive example:
+```HTML
+<div>
+  <request></request>
+</div>
+```
 Example fiddle be found <a href="https://jsfiddle.net/JoshSpears/38rmqnxn/">here</a>.
